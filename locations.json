@@ -1,0 +1,188 @@
+[
+  {
+    "latitude": 47.0528582634255,
+    "longitude": 8.25191004951141,
+    "name": "Luzern - Thorenbergstrasse",
+    "status": "semistationary"
+  },
+  {
+    "latitude": 47.0388104463789,
+    "longitude": 8.32467678520945,
+    "name": "Luzern - Langensandstrasse",
+    "status": "semistationary"
+  },
+  {
+    "latitude": 47.1771977242549,
+    "longitude": 8.13322932220191,
+    "name": "Schenkon - Dorfstrasse",
+    "status": "semistationary"
+  },
+  {
+    "latitude": 47.0706375,
+    "longitude": 8.2971406,
+    "name": "Ebikon - Autobahn A14 FR Luzern",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0695375,
+    "longitude": 8.2959844,
+    "name": "Ebikon - Autobahn A14 FR Zürich (Verzweigung Rotsee)",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0831649695359,
+    "longitude": 8.27778473439329,
+    "name": "Emmen - Autobahn A2, Emmen FR Nord",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0835156396572,
+    "longitude": 8.26990976872557,
+    "name": "Emmen - Autobahn A2, Emmen FR Süd",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0585407,
+    "longitude": 8.2902363,
+    "name": "Stadt Luzern - Autobahn A2, Reussport FR Nord",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.058745221252,
+    "longitude": 8.28940314893494,
+    "name": "Stadt Luzern - Autobahn A2, Reussport FR Süd",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.043606750527,
+    "longitude": 8.29421979643403,
+    "name": "Stadt Luzern - Autobahn A2, Sonnenberg FR Basel",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0581792551275,
+    "longitude": 8.31874808357123,
+    "name": "Stadt Luzern - Dreilindenstrasse",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0554667360417,
+    "longitude": 8.32182813628462,
+    "name": "Stadt Luzern - Haldenstrasse FR Meggen",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0555905897942,
+    "longitude": 8.32670225214958,
+    "name": "Stadt Luzern - Haldenstrasse FR Stadt",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.048734291709,
+    "longitude": 8.30253401097563,
+    "name": "Stadt Luzern - Hallwilerweg",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0651452890845,
+    "longitude": 8.32056814064484,
+    "name": "Stadt Luzern - Hünenbergstrasse",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0512228956869,
+    "longitude": 8.30100487621785,
+    "name": "Stadt Luzern - Kasernenplatz",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0520841479422,
+    "longitude": 8.34688034340821,
+    "name": "Stadt Luzern - Kreuzbuchstrasse",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0546437755166,
+    "longitude": 8.31179981429444,
+    "name": "Stadt Luzern - Luzernerhof",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0523492393737,
+    "longitude": 8.28075119007415,
+    "name": "Stadt Luzern - Luzernerstrasse (Littau)",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0662231195193,
+    "longitude": 8.31289998713723,
+    "name": "Stadt Luzern - Maihofstrasse FR Ebikon",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0672734948323,
+    "longitude": 8.31457343854943,
+    "name": "Stadt Luzern - Maihofstrasse FR Stadt",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0459280071784,
+    "longitude": 8.30409184543838,
+    "name": "Stadt Luzern - Moosegg",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0404518439368,
+    "longitude": 8.30160447056962,
+    "name": "Stadt Luzern - Obergrundstrasse",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0427445803025,
+    "longitude": 8.3032719478157,
+    "name": "Stadt Luzern - Paulusplatz",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0709587474553,
+    "longitude": 8.275983472869,
+    "name": "Stadt Luzern - Rothenstrasse (Reussbühl)",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.061003435293,
+    "longitude": 8.27045098616104,
+    "name": "Stadt Luzern - Ruopigenring (Reussbühl)",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0565386,
+    "longitude": 8.3466304,
+    "name": "Stadt Luzern - Schädrütistrasse",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0478663194758,
+    "longitude": 8.34298684598482,
+    "name": "Stadt Luzern - Seeburgstrasse",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0583783838648,
+    "longitude": 8.29949358591383,
+    "name": "Stadt Luzern - Spitalstrasse",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0433380507635,
+    "longitude": 8.31397842405092,
+    "name": "Stadt Luzern - Tribschenstrasse",
+    "status": "stationary"
+  },
+  {
+    "latitude": 47.0398288,
+    "longitude": 8.3050758,
+    "name": "Stadt Luzern - Voltastrasse",
+    "status": "stationary"
+  }
+]
